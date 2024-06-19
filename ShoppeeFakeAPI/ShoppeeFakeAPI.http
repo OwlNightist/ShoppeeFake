@@ -1,0 +1,6 @@
+@ShoppeeFakeAPI_HostAddress = http://localhost:5270
+
+GET {{ShoppeeFakeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
